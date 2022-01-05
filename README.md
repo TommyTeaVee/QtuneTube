@@ -49,14 +49,5 @@ docker-compose up --build -d
 
 # Roadmap
 
-## Version 8.9
-
-## Version 8.10
-
-## Version 8.11
-
-## git clone
-
-After a git clone command run this 
-
-composer update --prefer-dist --ignore-platform-reqs
+Accept multiple payments of cryptocurriencies
+Integrate with Marketplace
