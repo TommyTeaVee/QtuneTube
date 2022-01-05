@@ -9,7 +9,7 @@ AVideo is a term that means absolutely nothing, or anything video. Since it does
 
 
 #### (Management/Encoding/Storage)
-1. Management Project(s): <a href="http://git.avideo.tube/" class="" target="_blank">AVideo Platform</a>
+1. Management Project(s): <a href="http://tv.qtune.io" class="" target="_blank">QtuneTV Platform</a>
 1. Encoding Project(s): <a href="https://github.com/TommyTeaVee/Encoder" class="" target="_blank"> Encoder</a>
 
 Management life cycle is as follows; media is managed at the platform at 1, media is then uploaded to a temporary storage to be encoded at 2, then stored for broadcast at 3, then distributed to devices at 1 to be consumed.
