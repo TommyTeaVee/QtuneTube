@@ -14,24 +14,19 @@ AVideo is a term that means absolutely nothing, or anything video. Since it does
 
 Management life cycle is as follows; media is managed at the platform at 1, media is then uploaded to a temporary storage to be encoded at 2, then stored for broadcast at 3, then distributed to devices at 1 to be consumed.
 
-#### About AVideo Platform Open-Source
-Some of the largest brands in the world use the AVideo Platform to manage and distribute their media assets. AVideo Platform open-source project has over 900 developers, and over 4000 AVideo Platform instances throughout the world.  Because of the remarkable flexibility of the platform, each of our customers uses our platform in a slightly different way, to address their particular needs and deliver solid targeted value to their organization.
-
-The AVideo Platform Plugin Design allows you to get exactly the solution that addresses your needs today, while ensuring that your Broadcast Network implementation can grow and expand with you as your needs evolve.
+#### About Qtune's LiveTV Platform
+LiveTV is a blockchain powered broadcast studio for your content and audience. Qtune icentivies all platform participants by rewarding both audience and content creators with crypto tokens called Gesturecoins. With Gesrturecoins integrated within the platform , creators can also have commercial services, you can create premium programs or channels, Video on Demand or Pay-Per-View. 
 
 
 # Create Your Own Broadcast Network With Qtune LiveTV Platform
 
-## AVideo Platform Open-Source Solution enables you to create your own Netflix like Broadcasting Studio. 
+## Qtune's LiveTV Platform  Solution enables you to create your own Netflix like Broadcasting Studio. 
 And more to come in 2022. Our mission is to take your video sharing site to "The Next Level" Internet TV.
 
 Qtune UIC offers relevant and practical solutions, as well as valuable innovative technology, designed to increase the efficiency of advertising and broadcasting operations and maximize revenue opportunities for our customers and partners.
 
 ### WHERE WE DELIVER
-PROFITABLE STRATEGIES - We provide companies with new business models that evolve around the delivery of video and other digital assets complementing their existing business offerings and adding to their revenues. These new ways of doing business include Turnkey application-integration with capabilities for managing, auditing, and disseminating digital content.
-
-### To learn more about AVideo Platform visit the <a href="https://avideo.tube/" target="_blank">AVideo Platform Official Site</a>.
-### To learn more about the history of the AVideo Paroject <a href="https://wwbn.com/AVideo_Platform" target="_blank">WWBN Project Page</a>
+PROFITABLE STRATEGIES - We provide creators with an economical rewarding business models that evolve around the delivery of video and other digital assets complementing their content offerings and adding to their revenues. These new ways of doing business include Turnkey application-integration with capabilities for managing, auditing, and disseminating digital content within the blockchain platforms
 
 ### To see a demo select one below.
 * <a href="https://tv.qtune.io/" target="_blank">Qtune LiveTV</a>
