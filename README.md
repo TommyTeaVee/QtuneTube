@@ -6,8 +6,7 @@
 ## Qtune LiveTV
 LiveTV is an audio and video platform designed for easy Video Sharing , Visual Effects (VFX) and Multicasting with Video On Demand (VOD) and Pay-Per-View support brought to you by Qtune
 
-
-https://camo.githubusercontent.com/eeb402799a2b2a0ffb600dfad75fc4a8d7127614754145e5f8fdf8c38ea7420b/68747470733a2f2f61766964656f2e747562652f776562736974652f6173736574732f3135312f696d616765732f7376672f62616c616e63696e672e737667#### (Management/Encoding/Storage)
+<img src="view/img/balancing.svg">
 
 1. Management Project(s): <a href="http://tv.qtune.io" class="" target="_blank">QtuneTV Platform</a>
 1. Encoding Project(s): <a href="https://github.com/TommyTeaVee/Encoder" class="" target="_blank"> Encoder</a>
